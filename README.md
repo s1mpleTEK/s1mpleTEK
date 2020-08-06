@@ -35,7 +35,6 @@
 
 <img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default">
 
----
 
 [instagram]: https://instagram.com/jos_rdg
 [linkedin]: https://linkedin.com/in/jos-rdg-dev
