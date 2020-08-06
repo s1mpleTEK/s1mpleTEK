@@ -31,11 +31,11 @@
 
 ---
 
-<img align="center" alt="s1mpleTEK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s1mpleTEK&show_icons=true&hide_border=true&hide=prs,issues&theme=dark&show_owner=false&bg_color=#000000&title_color=#5e89ff&text_color=#ffffff&count_private=true" />
+<img align="left" alt="s1mpleTEK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s1mpleTEK&show_icons=true&hide_border=true&hide=prs,issues&theme=dark&show_owner=false&count_private=true" />
 
 ---
 
-<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default">
+<img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default">
 
 [instagram]: https://instagram.com/jos_rdg
 [linkedin]: https://linkedin.com/in/jos-rdg-dev
