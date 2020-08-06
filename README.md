@@ -33,7 +33,7 @@
 
 <img align="left" alt="s1mpleTEK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s1mpleTEK&show_icons=true&hide_border=true&hide=prs,issues&show_owner=false&count_private=true" />
 
-<img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default">
+<img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default&hide_border=true">
 
 
 [instagram]: https://instagram.com/jos_rdg
