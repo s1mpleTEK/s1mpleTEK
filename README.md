@@ -3,7 +3,7 @@
 ## I'm a Student, Junior Developer, and I'm not a ROBOT!
 - 🔭 I’m currently working on a VS Code!
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to make some poster with photoshop on my [art instagram account][instagram_art]
 
 ### Connect with me:
 
@@ -31,10 +31,11 @@
 
 ---
 
-<img align="left" alt="s1mpleTEK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s1mpleTEK&show_icons=true&hide_border=true&hide=prs,issues&theme=dark&show_owner=false&count_private=true" />
+<img align="left" alt="s1mpleTEK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s1mpleTEK&show_icons=true&hide_border=true&hide=prs,issues&show_owner=false&count_private=true" />
 
 <img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default">
 
 
 [instagram]: https://instagram.com/jos_rdg
+[instagram_art]: https://instagram.com/jos_rdg.art
 [linkedin]: https://linkedin.com/in/jos-rdg-dev
