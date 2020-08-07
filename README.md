@@ -31,10 +31,12 @@
 
 ---
 <!-- ![s1mpleTEK's github stats](https://github-readme-stats.vercel.app/api?username=s1mpleTEK&show_icons=true&hide_border=true&hide=prs,issues&show_owner=false) -->
-<img align="left" alt="s1mpleTEK's Github Stats" src="https://github-readme-stats-s1mpletek.vercel.app/api?username=s1mpleTEK&show_icons=true&hide_border=true&hide=issues&show_owner=false" />
+<!-- <img align="left" alt="s1mpleTEK's Github Stats" src="https://github-readme-stats-s1mpletek.vercel.app/api?username=s1mpleTEK&show_icons=true&hide_border=true&hide=issues&show_owner=false" /> -->
+<img align="left" alt="s1mpleTEK's Github Stats" src="https://github-readme-stats-mjdnyywzj.vercel.app/api?username=s1mpleTEK&show_icons=true&hide_border=true&hide=issues&show_owner=false" />
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default&hide_border=true) -->
-<img align="right" alt="Most Used Languages" src="https://github-readme-stats-s1mpletek.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default&hide_border=true">
+<!-- <img align="right" alt="Most Used Languages" src="https://github-readme-stats-s1mpletek.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default&hide_border=true"> -->
+<img align="right" alt="Most Used Languages" src="https://github-readme-stats-mjdnyywzj.vercel.app/api/top-langs/?username=s1mpleTEK&layout=default&hide_border=true">
 
 
 [instagram]: https://instagram.com/jos_rdg
